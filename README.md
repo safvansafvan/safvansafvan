@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safvansafvan&label=Profile%20views&color=0e75b6&style=flat" alt="safvansafvan" /> </p>
 
-- 🔭 I’m currently working on [Nexon Ev Car Booking App](https://github.com/safvansafvan/Nexon_ev_booking_app.git)
-
-- 🌱 I’m currently learning **Node.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
 - 💬 Ask me about **Flutter,Dart**
 
 - 📫 How to reach me **sajusajuptl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19l9hAsEl6kX8HGi0e3W4etB4lKs4cU8c/view?usp=drive_link](https://drive.google.com/file/d/19l9hAsEl6kX8HGi0e3W4etB4lKs4cU8c/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
